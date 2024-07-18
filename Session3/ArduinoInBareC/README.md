@@ -1,5 +1,5 @@
 # How to build and flash
-To build this project, you will need to install the ```AVR compiler``` in your machine.
+To build this project, you will need to install the ```AVR compiler``` into your machine.
 
 ## Building the binary 
 To build the executable (binary) for your atmega microcontroller, run:
